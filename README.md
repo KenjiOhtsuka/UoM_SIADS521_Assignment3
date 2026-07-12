@@ -3,7 +3,7 @@
 - Name: Kenji Otsuka
 - Email: kotsuka@umich.edu
 - GitHub Repo: [https://github.com/KenjiOhtsuka/UoM_SIADS521_Assignment3](https://github.com/KenjiOhtsuka/UoM_SIADS521_Assignment3)
-- Publicly Available Dashboard:
+- Publicly Available Dashboard: [https://siads521a3-999435554311.europe-west1.run.app/lab/workspaces/auto-9/tree/work/assignment3.ipynb](https://siads521a3-999435554311.europe-west1.run.app/lab/workspaces/auto-9/tree/work/assignment3.ipynb)
 - Video Link:
 
 ## Dataset Attribution
