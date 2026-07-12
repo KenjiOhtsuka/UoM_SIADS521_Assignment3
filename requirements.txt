@@ -2,6 +2,3 @@ pandas
 numpy
 plotly
 ipywidgets
-voila
-jupyter
-ipykernel
