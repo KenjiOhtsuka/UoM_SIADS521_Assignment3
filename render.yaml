@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: uom_siads521_a3
-    env: python
-    buildCommand: "pip install -r requirements.txt"
-    startCommand: "voila assignment3.ipynb --port=$PORT --no-browser"
