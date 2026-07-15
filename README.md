@@ -4,7 +4,8 @@
 - Email: kotsuka@umich.edu
 - GitHub Repo: [https://github.com/KenjiOhtsuka/UoM_SIADS521_Assignment3](https://github.com/KenjiOhtsuka/UoM_SIADS521_Assignment3)
 - Publicly Available Dashboard: [https://uom-siads521-assignment3-git-765679345354.northamerica-northeast2.run.app/lab/tree/work/assignment3.ipynbb](https://uom-siads521-assignment3-git-765679345354.northamerica-northeast2.run.app/lab/tree/work/assignment3.ipynb)
-- Video Link:
+- Video Link: [https://drive.google.com/file/d/1CyO3Dcd8_QDx3D9hPFyq6LZ3m36BvYmB/view?usp=sharing](https://drive.google.com/file/d/1CyO3Dcd8_QDx3D9hPFyq6LZ3m36BvYmB/view?usp=sharing)
+- Video Transcript: [https://drive.google.com/file/d/1mMIP-TiP6S6vkQZzgpWoHEDYklfNYi4B/view?usp=sharing](https://drive.google.com/file/d/1mMIP-TiP6S6vkQZzgpWoHEDYklfNYi4B/view?usp=sharing)
 
 ## Dataset Attribution
 
